@@ -34,6 +34,8 @@
 		46AA5E962C5FD8F000343AF0 /* ShoppingListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46AA5E952C5FD8F000343AF0 /* ShoppingListViewController.swift */; };
 		46AA5E982C5FFD1100343AF0 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46AA5E972C5FFD1100343AF0 /* Data.swift */; };
 		46AA5E9A2C5FFDCB00343AF0 /* ShoppingTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46AA5E992C5FFDCB00343AF0 /* ShoppingTableViewCell.swift */; };
+		46AA5EB32C63A62C00343AF0 /* ShoppingCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46AA5EB22C63A62C00343AF0 /* ShoppingCollectionViewController.swift */; };
+		46AA5EB52C63A66B00343AF0 /* ShoppingListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46AA5EB42C63A66B00343AF0 /* ShoppingListViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -82,6 +84,8 @@
 		46AA5E952C5FD8F000343AF0 /* ShoppingListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingListViewController.swift; sourceTree = "<group>"; };
 		46AA5E972C5FFD1100343AF0 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		46AA5E992C5FFDCB00343AF0 /* ShoppingTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingTableViewCell.swift; sourceTree = "<group>"; };
+		46AA5EB22C63A62C00343AF0 /* ShoppingCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingCollectionViewController.swift; sourceTree = "<group>"; };
+		46AA5EB42C63A66B00343AF0 /* ShoppingListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -222,6 +226,8 @@
 				46AA5E952C5FD8F000343AF0 /* ShoppingListViewController.swift */,
 				46AA5E972C5FFD1100343AF0 /* Data.swift */,
 				46AA5E992C5FFDCB00343AF0 /* ShoppingTableViewCell.swift */,
+				46AA5EB22C63A62C00343AF0 /* ShoppingCollectionViewController.swift */,
+				46AA5EB42C63A66B00343AF0 /* ShoppingListViewModel.swift */,
 			);
 			path = ShoppingListViewController;
 			sourceTree = "<group>";
@@ -369,6 +375,7 @@
 				46AA5E962C5FD8F000343AF0 /* ShoppingListViewController.swift in Sources */,
 				0412806F2AEFAD2D00972552 /* BirthdayViewController.swift in Sources */,
 				041280652AEFA2F000972552 /* SignTextField.swift in Sources */,
+				46AA5EB52C63A66B00343AF0 /* ShoppingListViewModel.swift in Sources */,
 				0412806C2AEFABFE00972552 /* PasswordViewController.swift in Sources */,
 				041280562AEFA04800972552 /* SignInViewController.swift in Sources */,
 				041280282AEF9BAB00972552 /* ViewController.swift in Sources */,
@@ -377,6 +384,7 @@
 				041280632AEFA0CE00972552 /* PointButton.swift in Sources */,
 				04F6DC022C5B0D8200667F4D /* DetailViewController.swift in Sources */,
 				041280242AEF9BAB00972552 /* AppDelegate.swift in Sources */,
+				46AA5EB32C63A62C00343AF0 /* ShoppingCollectionViewController.swift in Sources */,
 				04F6DBFE2C5B0C0300667F4D /* SearchViewController.swift in Sources */,
 				04F6DC002C5B0C2200667F4D /* SearchTableViewCell.swift in Sources */,
 				041280732AEFAD4B00972552 /* NicknameViewController.swift in Sources */,

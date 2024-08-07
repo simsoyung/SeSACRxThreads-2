@@ -15,7 +15,7 @@ class PhoneViewController: UIViewController {
     let phoneTextField = SignTextField(placeholderText: "연락처를 입력해주세요")
     let nextButton = PointButton(title: "다음")
     let defalutsNumber = Observable.just("010")
-    
+   
     let dispose = DisposeBag()
     
     override func viewDidLoad() {
